@@ -1,0 +1,71 @@
+{  
+    "id": 1,
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Study IC",
+            "description": "-",
+            "date": "2024-04-26",
+            "time": "16:00:00",
+            "flag": "Important",
+            "status": "Upcoming",
+            "user": 1,
+            "list": null
+        },
+        
+        {
+            "id": 2,
+            "title": "Buy Groceries",
+            "description": "-",
+            "date": "2024-04-29",
+            "time": "20:00:00",
+            "flag": "Urgent and Important",
+            "status": "Upcoming",
+            "user": 1,
+            "list": null
+        },
+        {
+            "id": 3,
+            "title": "Check prices",
+            "description": "-",
+            "date": "2024-04-27",
+            "time": "14:58:48",
+            "flag": "Urgent",
+            "status": "Upcoming",
+            "user": 1,
+            "list": 6
+        }
+    ],
+    "projects": [
+        {
+            "id": 5,
+            "lists": [
+                {
+                    "id": 6,
+                    "tasks": [
+                        {
+                            "id": 3,
+                            "title": "Check prices",
+                            "description": "-",
+                            "date": "2024-04-27",
+                            "time": "14:58:48",
+                            "flag": "Urgent",
+                            "status": "Upcoming",
+                            "user": 1,
+                            "list": 6
+                        }
+                    ],
+                    "title": "Financial Arrengement",
+                    "description": "Organizing finances for buying the car",
+                    "project": 5
+                }
+            ],
+            "title": "Buy a Car",
+            "description": "Buying a Porsche 911",
+            "user": 1
+        }
+    ],
+    "username": "updated username",
+    "email": "updatedemail@example.com",
+    "password": ")y3IU6Zs^6"
+}
